@@ -85,3 +85,22 @@ form {
   box-shadow: 1px 1px 1px #1877f2,
     -1px -1px 1px #1877f2;
 }
+
+.login-btn {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #1877f2;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 48px;
+  padding: 0 16px;
+  width: 332px;
+  cursor: pointer;
+}
+
+.login-btn:hover {
+  background-color: #1855ff;
+}
