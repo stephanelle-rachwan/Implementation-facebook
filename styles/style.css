@@ -231,3 +231,21 @@ footer {
 }
 /* End of the footer styling */
 
+/* Responsiveness: Using Media Query */
+@media only screen and (max-width: 999px) {
+  .text {
+    margin-right: 0;
+  }
+  .image-fb{
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  .text{
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
