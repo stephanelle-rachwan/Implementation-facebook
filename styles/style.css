@@ -167,6 +167,7 @@ footer {
   margin: auto;
 }
 
+/* Language section */
 .languages>ul {
   padding-top: 8px;
   align-items: center;
@@ -189,7 +190,7 @@ footer {
   text-decoration: underline;
 }
 
-
+/* horizontal Line */
 .horizontal-line {
   border-bottom: 1px solid #dddfe2;
   font-size: 1px;
@@ -197,6 +198,7 @@ footer {
   margin-bottom: 8px;
 }
 
+/* Settings Section  */
 .settings>ul {
   padding-top: 8px;
   align-items: center;
@@ -221,9 +223,11 @@ footer {
   text-decoration: underline;
 }
 
+/* Copyright Section */
 .copyright {
   font-size: 11px;
   margin-top: 20px;
   margin-bottom: 20px;
 }
 /* End of the footer styling */
+
