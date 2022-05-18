@@ -153,3 +153,77 @@ form {
   margin-top: 28px;
   text-align: center;
 }
+/* End of the styling of the form */
+
+/* Styling of the footer */
+footer {
+  font-size: 12px;
+  margin: 0 40px;
+  width: auto;
+}
+
+.foot {
+  width: 70%;
+  margin: auto;
+}
+
+.languages>ul {
+  padding-top: 8px;
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.languages>ul>li {
+  padding-left: 10px;
+}
+
+.languages>ul>li>a {
+  color: #8a8d91;
+  cursor: pointer;
+  line-height: 1.6;
+}
+
+.languages>ul>li>a:hover {
+  text-decoration: underline;
+}
+
+
+.horizontal-line {
+  border-bottom: 1px solid #dddfe2;
+  font-size: 1px;
+  height: 8px;
+  margin-bottom: 8px;
+}
+
+.settings>ul {
+  padding-top: 8px;
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.settings>ul>li {
+  padding-left: 20px;
+  padding-right: 0px;
+  display: inline-block;
+}
+
+.settings>ul>li>a {
+  color: #8a8d91;
+  cursor: pointer;
+  line-height: 1.6;
+  text-decoration: none;
+}
+
+.settings>ul>li>a:hover {
+  text-decoration: underline;
+}
+
+.copyright {
+  font-size: 11px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+/* End of the footer styling */
